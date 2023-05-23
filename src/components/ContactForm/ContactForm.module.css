@@ -1,0 +1,20 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10px;
+  min-width: 550px;
+  border: 2px solid black;
+}
+.label {
+  display: flex;
+  flex-direction: column;
+}
+.btn {
+  display: inline-block;
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 5px;
+}

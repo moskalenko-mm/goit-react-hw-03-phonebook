@@ -1,0 +1,22 @@
+.contactList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0;
+  margin-top: 15px;
+  margin-left: 20px;
+  padding: 0;
+  align-items: flex-start;
+}
+.contact {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+.btn {
+  display: inline-block;
+  margin-left: 10px;
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 5px;
+}
